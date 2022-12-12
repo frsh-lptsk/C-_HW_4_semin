@@ -1,0 +1,15 @@
+/Users/evgenijfilatov/Desktop/GB/C#_HW_4_semin/task25/bin/Debug/net7.0/task25
+/Users/evgenijfilatov/Desktop/GB/C#_HW_4_semin/task25/bin/Debug/net7.0/task25.deps.json
+/Users/evgenijfilatov/Desktop/GB/C#_HW_4_semin/task25/bin/Debug/net7.0/task25.runtimeconfig.json
+/Users/evgenijfilatov/Desktop/GB/C#_HW_4_semin/task25/bin/Debug/net7.0/task25.dll
+/Users/evgenijfilatov/Desktop/GB/C#_HW_4_semin/task25/bin/Debug/net7.0/task25.pdb
+/Users/evgenijfilatov/Desktop/GB/C#_HW_4_semin/task25/obj/Debug/net7.0/task25.csproj.AssemblyReference.cache
+/Users/evgenijfilatov/Desktop/GB/C#_HW_4_semin/task25/obj/Debug/net7.0/task25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgenijfilatov/Desktop/GB/C#_HW_4_semin/task25/obj/Debug/net7.0/task25.AssemblyInfoInputs.cache
+/Users/evgenijfilatov/Desktop/GB/C#_HW_4_semin/task25/obj/Debug/net7.0/task25.AssemblyInfo.cs
+/Users/evgenijfilatov/Desktop/GB/C#_HW_4_semin/task25/obj/Debug/net7.0/task25.csproj.CoreCompileInputs.cache
+/Users/evgenijfilatov/Desktop/GB/C#_HW_4_semin/task25/obj/Debug/net7.0/task25.dll
+/Users/evgenijfilatov/Desktop/GB/C#_HW_4_semin/task25/obj/Debug/net7.0/refint/task25.dll
+/Users/evgenijfilatov/Desktop/GB/C#_HW_4_semin/task25/obj/Debug/net7.0/task25.pdb
+/Users/evgenijfilatov/Desktop/GB/C#_HW_4_semin/task25/obj/Debug/net7.0/task25.genruntimeconfig.cache
+/Users/evgenijfilatov/Desktop/GB/C#_HW_4_semin/task25/obj/Debug/net7.0/ref/task25.dll
