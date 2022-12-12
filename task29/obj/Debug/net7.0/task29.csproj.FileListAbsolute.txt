@@ -1,0 +1,15 @@
+/Users/evgenijfilatov/Desktop/GB/C#_HW_4_semin/task29/obj/Debug/net7.0/task29.csproj.AssemblyReference.cache
+/Users/evgenijfilatov/Desktop/GB/C#_HW_4_semin/task29/obj/Debug/net7.0/task29.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgenijfilatov/Desktop/GB/C#_HW_4_semin/task29/obj/Debug/net7.0/task29.AssemblyInfoInputs.cache
+/Users/evgenijfilatov/Desktop/GB/C#_HW_4_semin/task29/obj/Debug/net7.0/task29.AssemblyInfo.cs
+/Users/evgenijfilatov/Desktop/GB/C#_HW_4_semin/task29/obj/Debug/net7.0/task29.csproj.CoreCompileInputs.cache
+/Users/evgenijfilatov/Desktop/GB/C#_HW_4_semin/task29/bin/Debug/net7.0/task29
+/Users/evgenijfilatov/Desktop/GB/C#_HW_4_semin/task29/bin/Debug/net7.0/task29.deps.json
+/Users/evgenijfilatov/Desktop/GB/C#_HW_4_semin/task29/bin/Debug/net7.0/task29.runtimeconfig.json
+/Users/evgenijfilatov/Desktop/GB/C#_HW_4_semin/task29/bin/Debug/net7.0/task29.dll
+/Users/evgenijfilatov/Desktop/GB/C#_HW_4_semin/task29/bin/Debug/net7.0/task29.pdb
+/Users/evgenijfilatov/Desktop/GB/C#_HW_4_semin/task29/obj/Debug/net7.0/task29.dll
+/Users/evgenijfilatov/Desktop/GB/C#_HW_4_semin/task29/obj/Debug/net7.0/refint/task29.dll
+/Users/evgenijfilatov/Desktop/GB/C#_HW_4_semin/task29/obj/Debug/net7.0/task29.pdb
+/Users/evgenijfilatov/Desktop/GB/C#_HW_4_semin/task29/obj/Debug/net7.0/task29.genruntimeconfig.cache
+/Users/evgenijfilatov/Desktop/GB/C#_HW_4_semin/task29/obj/Debug/net7.0/ref/task29.dll
